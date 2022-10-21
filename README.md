@@ -1,5 +1,7 @@
 # Offers iOS
 
 <p align="center">
-  <img width="200" height="300" src="/captures/screenshot.png">
+  <img width="250" height="541" src="/captures/screenshot.png">
 </p>
+
+[Demo](/captures/recording.mp4)
