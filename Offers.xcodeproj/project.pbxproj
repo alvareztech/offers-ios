@@ -13,6 +13,7 @@
 		37D8F3DC2901C36B00B172A3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 37D8F3DB2901C36B00B172A3 /* Preview Assets.xcassets */; };
 		37D8F3E32901C3AA00B172A3 /* Offer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37D8F3E22901C3AA00B172A3 /* Offer.swift */; };
 		37D8F3E52901CBE300B172A3 /* OfferDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37D8F3E42901CBE300B172A3 /* OfferDetail.swift */; };
+		37D8F3E729026B2C00B172A3 /* OfferList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37D8F3E629026B2C00B172A3 /* OfferList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		37D8F3DB2901C36B00B172A3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		37D8F3E22901C3AA00B172A3 /* Offer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Offer.swift; sourceTree = "<group>"; };
 		37D8F3E42901CBE300B172A3 /* OfferDetail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OfferDetail.swift; sourceTree = "<group>"; };
+		37D8F3E629026B2C00B172A3 /* OfferList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OfferList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 				37D8F3D42901C36800B172A3 /* OffersApp.swift */,
 				37D8F3D62901C36800B172A3 /* ContentView.swift */,
 				37D8F3E22901C3AA00B172A3 /* Offer.swift */,
+				37D8F3E629026B2C00B172A3 /* OfferList.swift */,
 				37D8F3E42901CBE300B172A3 /* OfferDetail.swift */,
 				37D8F3D82901C36B00B172A3 /* Assets.xcassets */,
 				37D8F3DA2901C36B00B172A3 /* Preview Content */,
@@ -145,6 +148,7 @@
 			files = (
 				37D8F3E32901C3AA00B172A3 /* Offer.swift in Sources */,
 				37D8F3E52901CBE300B172A3 /* OfferDetail.swift in Sources */,
+				37D8F3E729026B2C00B172A3 /* OfferList.swift in Sources */,
 				37D8F3D72901C36800B172A3 /* ContentView.swift in Sources */,
 				37D8F3D52901C36800B172A3 /* OffersApp.swift in Sources */,
 			);
