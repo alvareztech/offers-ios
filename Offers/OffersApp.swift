@@ -7,7 +7,7 @@
 
 import SwiftUI
 
-let kOffersApiUrl = "https://my-json-server.typicode.com/mluksenberg/lucky-test/test"
+let kOffersApiUrl = "https://alvarez.tech/api/offers"
 
 @main
 struct OffersApp: App {
